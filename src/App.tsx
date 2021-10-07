@@ -1,14 +1,23 @@
-import React from "react";
+import React, {useState} from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-function App(): JSX.Element {
+
+function App(): JSX.Element {  
+    const [counter, setCounter] = useState(0);
+    function updateCounter(){
+        let i = counter;
+        i = i + 1;
+        setCounter(i);
+    }
     return (
         <div className="App">
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
+                <p>Count: {counter}</p>
                 <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/App.tsx</code> and save to reload  
+                    <button onClick={updateCounter}>{counter}</button>
                 </p>
                 <a
                     className="App-link"
