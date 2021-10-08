@@ -12,7 +12,6 @@ function App(this: any): JSX.Element {
     return (
         <div className="App">
             <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo" />
                 <p>
                     Super cool and very well-thought-out welcome message!
                 </p>
