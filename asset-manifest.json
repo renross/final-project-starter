@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/final-project-starter/static/css/main.a617e044.chunk.css",
-    "main.js": "/final-project-starter/static/js/main.b174a058.chunk.js",
-    "main.js.map": "/final-project-starter/static/js/main.b174a058.chunk.js.map",
+    "main.js": "/final-project-starter/static/js/main.c7e8ada4.chunk.js",
+    "main.js.map": "/final-project-starter/static/js/main.c7e8ada4.chunk.js.map",
     "runtime-main.js": "/final-project-starter/static/js/runtime-main.cddbc85e.js",
     "runtime-main.js.map": "/final-project-starter/static/js/runtime-main.cddbc85e.js.map",
     "static/js/2.cb19fd1c.chunk.js": "/final-project-starter/static/js/2.cb19fd1c.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.3c918545.chunk.js.map": "/final-project-starter/static/js/3.3c918545.chunk.js.map",
     "index.html": "/final-project-starter/index.html",
     "static/css/main.a617e044.chunk.css.map": "/final-project-starter/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.cb19fd1c.chunk.js.LICENSE.txt": "/final-project-starter/static/js/2.cb19fd1c.chunk.js.LICENSE.txt",
-    "static/media/logo.2097496f.svg": "/final-project-starter/static/media/logo.2097496f.svg"
+    "static/js/2.cb19fd1c.chunk.js.LICENSE.txt": "/final-project-starter/static/js/2.cb19fd1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cddbc85e.js",
     "static/js/2.cb19fd1c.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.b174a058.chunk.js"
+    "static/js/main.c7e8ada4.chunk.js"
   ]
 }
